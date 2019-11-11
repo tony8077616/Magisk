@@ -8,7 +8,7 @@
     <string name="settings">設定</string>
     <string name="install">安裝</string>
     <string name="unsupport_magisk_title">不支援的 Magisk 版本</string>
-    <string name="unsupport_magisk_message">此 Magisk Manager 的版本不支援 Magisk 18.0 版或更低的版本。\n\n您可以手動更新 Magisk 或安裝舊版 Magisk Manager。</string>
+    <string name="unsupport_magisk_msg">此 Magisk Manager 的版本不支援 Magisk  %1$s 版或更低的版本。\n\nMagisk 將顯示為未安裝的狀態。不過您仍然可以。</string>
 
     <!--Status Fragment-->
     <string name="magisk_version_error">未安裝 Magisk</string>
